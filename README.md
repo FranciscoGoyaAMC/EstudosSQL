@@ -53,11 +53,11 @@ Algumas das consultas desenvolvidas incluem:
   (Artigo - (π ArtigoID(ArtigoPC) ⨝ Artigo))
   ```
 
-## 🚀 Aprendizados e Experiência
-Este desafio foi uma excelente oportunidade para consolidar os conhecimentos em:
-✅ Modelagem de bancos de dados (**DER e Modelo Relacional**)
-✅ Normalização e integridade referencial
-✅ Escrita de **consultas SQL e Álgebra Relacional**
-✅ Implementação e testes no **Oracle SQL Live**
+## 🚀 Aprendizados e Experiência  
+Este desafio foi uma excelente oportunidade para consolidar os conhecimentos em:  
+- ✅ **Modelagem de bancos de dados** (DER e Modelo Relacional)  
+- ✅ **Normalização e integridade referencial**  
+- ✅ **Escrita de consultas SQL e Álgebra Relacional**  
+- ✅ **Implementação e testes no Oracle SQL Live**  
 
 📩 Caso tenha sugestões ou queira trocar ideias, fique à vontade para entrar em contato!
