@@ -61,3 +61,7 @@ Este desafio foi uma excelente oportunidade para consolidar os conhecimentos em:
 - ✅ **Implementação e testes no Oracle SQL Live**  
 
 📩 Caso tenha sugestões ou queira trocar ideias, fique à vontade para entrar em contato!
+
+## 
+
+📌 Desenvolvido por **[Francisco Goya](https://github.com/FranciscoGoyaAMC)** como parte do curso de **Análise e Desenvolvimento de Sistemas** na **[UNISINOS](https://unisinos.br/)**.
